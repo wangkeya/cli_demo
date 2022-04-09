@@ -35,3 +35,7 @@ cobra-cli add get
 cobra-cli add pods -p getCmd
 
 ```
+
+### 5.效果展示
+
+![img.png](img.png)
